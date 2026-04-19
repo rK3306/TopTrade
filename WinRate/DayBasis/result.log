@@ -2754,3 +2754,521 @@
 2026-04-19 21:45:49,939 - INFO - code:600773.SH,dateBegin:2025-05-10 00:00:00,buyPrice:8.88,endDate:20250620,endPrice:9.96.result:win
 2026-04-19 21:45:50,257 - INFO - code:600774.SH,dateBegin:2010-06-30 00:00:00,buyPrice:4.49,endDate:20100722,endPrice:5.04.result:win
 2026-04-19 21:45:50,697 - INFO - code600775.SH,dateBegin:20010724,buyPrice:11.08,endDate:20010731,endPrice:10.37.result:lose
+2026-04-19 21:48:34,947 - INFO - ================begin=================
+2026-04-19 21:48:34,947 - INFO - WR:0.1,LR:0.05
+2026-04-19 21:48:35,163 - INFO - code000001.SZ,dateBegin:2020-05-12 00:00:00,buyPrice:11.21,endDate:20200522,endPrice:10.48.result:lose
+2026-04-19 21:48:35,522 - INFO - code000002.SZ,dateBegin:2002-11-16 00:00:00,buyPrice:0.52,endDate:20021230,endPrice:0.49.result:lose
+2026-04-19 21:48:35,916 - INFO - code000004.SZ,dateBegin:2002-03-20 00:00:00,buyPrice:18.26,endDate:20020327,endPrice:17.08.result:lose
+2026-04-19 21:48:36,184 - INFO - code000006.SZ,dateBegin:2014-04-16 00:00:00,buyPrice:4.01,endDate:20140428,endPrice:3.76.result:lose
+2026-04-19 21:48:36,447 - INFO - code:000007.SZ,dateBegin:2011-02-03 00:00:00,buyPrice:5.52,endDate:20110310,endPrice:6.2.result:win
+2026-04-19 21:48:36,886 - INFO - code000008.SZ,dateBegin:20010724,buyPrice:1.96,endDate:20010727,endPrice:1.81.result:lose
+2026-04-19 21:48:37,283 - INFO - code000009.SZ,dateBegin:20010724,buyPrice:2.27,endDate:20010730,endPrice:1.96.result:lose
+2026-04-19 21:48:37,612 - INFO - code:000010.SZ,dateBegin:2004-11-23 00:00:00,buyPrice:1.24,endDate:20041202,endPrice:1.38.result:win
+2026-04-19 21:48:37,905 - INFO - code:000011.SZ,dateBegin:2014-03-21 00:00:00,buyPrice:5.25,endDate:20140327,endPrice:5.79.result:win
+2026-04-19 21:48:38,239 - INFO - code000012.SZ,dateBegin:2005-01-27 00:00:00,buyPrice:0.97,endDate:20050131,endPrice:0.92.result:lose
+2026-04-19 21:48:38,500 - INFO - code:000014.SZ,dateBegin:2012-12-05 00:00:00,buyPrice:5.35,endDate:20121207,endPrice:6.27.result:win
+2026-04-19 21:48:38,902 - INFO - code000016.SZ,dateBegin:20010724,buyPrice:2.01,endDate:20010727,endPrice:1.76.result:lose
+2026-04-19 21:48:39,138 - INFO - code000017.SZ,dateBegin:2020-05-11 00:00:00,buyPrice:2.63,endDate:20200519,endPrice:2.46.result:lose
+2026-04-19 21:48:39,449 - INFO - code:000019.SZ,dateBegin:2009-06-19 00:00:00,buyPrice:3.49,endDate:20090722,endPrice:3.88.result:win
+2026-04-19 21:48:39,751 - INFO - code:000020.SZ,dateBegin:2010-02-15 00:00:00,buyPrice:9.24,endDate:20100302,endPrice:10.27.result:win
+2026-04-19 21:48:40,164 - INFO - code000021.SZ,dateBegin:20010724,buyPrice:5.47,endDate:20010727,endPrice:5.01.result:lose
+2026-04-19 21:48:40,612 - INFO - code:001872.SZ,dateBegin:2004-02-15 00:00:00,buyPrice:5.27,endDate:20040302,endPrice:5.87.result:win
+2026-04-19 21:48:40,982 - INFO - code000025.SZ,dateBegin:2005-04-17 00:00:00,buyPrice:1.71,endDate:20050421,endPrice:1.59.result:lose
+2026-04-19 21:48:41,279 - INFO - code000026.SZ,dateBegin:2011-08-15 00:00:00,buyPrice:13.71,endDate:20110920,endPrice:12.96.result:lose
+2026-04-19 21:48:41,475 - INFO - code:000027.SZ,dateBegin:2024-03-12 00:00:00,buyPrice:6.43,endDate:20240415,endPrice:7.12.result:win
+2026-04-19 21:48:41,803 - INFO - code000028.SZ,dateBegin:2007-03-19 00:00:00,buyPrice:7.63,endDate:20070329,endPrice:7.24.result:lose
+2026-04-19 21:48:42,282 - INFO - code000029.SZ,dateBegin:20010724,buyPrice:6.46,endDate:20010730,endPrice:5.9.result:lose
+2026-04-19 21:48:42,662 - INFO - code000030.SZ,dateBegin:20010724,buyPrice:5.36,endDate:20010730,endPrice:4.93.result:lose
+2026-04-19 21:48:42,924 - INFO - code000031.SZ,dateBegin:2018-01-11 00:00:00,buyPrice:7.27,endDate:20180417,endPrice:6.82.result:lose
+2026-04-19 21:48:43,163 - INFO - code:000032.SZ,dateBegin:2020-05-25 00:00:00,buyPrice:17.11,endDate:20200616,endPrice:18.96.result:win
+2026-04-19 21:48:43,522 - INFO - code:000034.SZ,dateBegin:2007-01-18 00:00:00,buyPrice:1.7,endDate:20070123,endPrice:1.88.result:win
+2026-04-19 21:48:43,947 - INFO - code000035.SZ,dateBegin:20010724,buyPrice:9.44,endDate:20010726,endPrice:8.56.result:lose
+2026-04-19 21:48:44,231 - INFO - code:000036.SZ,dateBegin:2014-05-05 00:00:00,buyPrice:1.49,endDate:20140806,endPrice:1.67.result:win
+2026-04-19 21:48:44,654 - INFO - code000037.SZ,dateBegin:20010724,buyPrice:9.58,endDate:20010730,endPrice:8.86.result:lose
+2026-04-19 21:48:44,870 - INFO - code000039.SZ,dateBegin:2020-02-03 00:00:00,buyPrice:4.81,endDate:20200316,endPrice:4.55.result:lose
+2026-04-19 21:48:45,133 - INFO - code000042.SZ,dateBegin:2019-07-27 00:00:00,buyPrice:9.27,endDate:20190805,endPrice:8.77.result:lose
+2026-04-19 21:48:45,496 - INFO - code:001914.SZ,dateBegin:2004-09-04 00:00:00,buyPrice:1.34,endDate:20040920,endPrice:1.6.result:win
+2026-04-19 21:48:45,782 - INFO - code:000045.SZ,dateBegin:2013-11-11 00:00:00,buyPrice:7.17,endDate:20131210,endPrice:7.98.result:win
+2026-04-19 21:48:46,131 - INFO - code000048.SZ,dateBegin:2012-07-22 00:00:00,buyPrice:4.05,endDate:20120830,endPrice:3.8.result:lose
+2026-04-19 21:48:46,413 - INFO - code:000049.SZ,dateBegin:2015-09-21 00:00:00,buyPrice:19.81,endDate:20151008,endPrice:22.56.result:win
+2026-04-19 21:48:46,662 - INFO - code000050.SZ,dateBegin:2017-07-21 00:00:00,buyPrice:21.72,endDate:20170811,endPrice:20.14.result:lose
+2026-04-19 21:48:46,942 - INFO - code000055.SZ,dateBegin:2017-08-17 00:00:00,buyPrice:6.96,endDate:20171019,endPrice:6.43.result:lose
+2026-04-19 21:48:47,207 - INFO - code000056.SZ,dateBegin:2017-09-01 00:00:00,buyPrice:12.59,endDate:20180413,endPrice:11.87.result:lose
+2026-04-19 21:48:47,605 - INFO - code000058.SZ,dateBegin:2006-02-27 00:00:00,buyPrice:2.15,endDate:20060313,endPrice:2.02.result:lose
+2026-04-19 21:48:47,810 - INFO - code000059.SZ,dateBegin:2020-08-22 00:00:00,buyPrice:4.91,endDate:20200907,endPrice:4.64.result:lose
+2026-04-19 21:48:47,997 - INFO - code000060.SZ,dateBegin:2022-07-06 00:00:00,buyPrice:4.13,endDate:20220928,endPrice:3.88.result:lose
+2026-04-19 21:48:48,380 - INFO - code000061.SZ,dateBegin:2003-03-26 00:00:00,buyPrice:1.84,endDate:20031027,endPrice:1.74.result:lose
+2026-04-19 21:48:48,586 - INFO - code:000062.SZ,dateBegin:2022-06-22 00:00:00,buyPrice:11.12,endDate:20220826,endPrice:12.4.result:win
+2026-04-19 21:48:48,890 - INFO - code000063.SZ,dateBegin:2011-07-29 00:00:00,buyPrice:16.23,endDate:20110805,endPrice:14.89.result:lose
+2026-04-19 21:48:49,149 - INFO - code000065.SZ,dateBegin:2016-02-07 00:00:00,buyPrice:10.2,endDate:20160316,endPrice:9.12.result:lose
+2026-04-19 21:48:49,371 - INFO - code000066.SZ,dateBegin:2021-01-04 00:00:00,buyPrice:19.29,endDate:20210115,endPrice:18.14.result:lose
+2026-04-19 21:48:49,614 - INFO - code000068.SZ,dateBegin:2016-05-01 00:00:00,buyPrice:10.2,endDate:20160506,endPrice:9.59.result:lose
+2026-04-19 21:48:49,852 - INFO - code:000069.SZ,dateBegin:2018-12-12 00:00:00,buyPrice:5.16,endDate:20190220,endPrice:5.72.result:win
+2026-04-19 21:48:50,209 - INFO - code000070.SZ,dateBegin:2005-10-19 00:00:00,buyPrice:1.27,endDate:20051027,endPrice:1.19.result:lose
+2026-04-19 21:48:50,391 - INFO - code000078.SZ,dateBegin:2023-06-06 00:00:00,buyPrice:3.31,endDate:20230626,endPrice:3.13.result:lose
+2026-04-19 21:48:50,782 - INFO - code000088.SZ,dateBegin:20010724,buyPrice:2.07,endDate:20010730,endPrice:1.92.result:lose
+2026-04-19 21:48:51,069 - INFO - code:000089.SZ,dateBegin:2014-09-24 00:00:00,buyPrice:4.02,endDate:20141103,endPrice:4.64.result:win
+2026-04-19 21:48:51,508 - INFO - code000090.SZ,dateBegin:20010724,buyPrice:2.11,endDate:20010730,endPrice:1.93.result:lose
+2026-04-19 21:48:51,750 - INFO - code000096.SZ,dateBegin:2017-10-06 00:00:00,buyPrice:12.87,endDate:20171103,endPrice:12.14.result:lose
+2026-04-19 21:48:52,079 - INFO - code000099.SZ,dateBegin:2012-04-11 00:00:00,buyPrice:8.35,endDate:20120417,endPrice:7.92.result:lose
+2026-04-19 21:48:52,356 - INFO - code000100.SZ,dateBegin:2018-06-20 00:00:00,buyPrice:2.33,endDate:20180705,endPrice:2.15.result:lose
+2026-04-19 21:48:52,651 - INFO - code:000151.SZ,dateBegin:2015-08-11 00:00:00,buyPrice:26.74,endDate:20150812,endPrice:29.7.result:win
+2026-04-19 21:48:52,990 - INFO - code000153.SZ,dateBegin:2007-11-20 00:00:00,buyPrice:4.17,endDate:20071122,endPrice:3.96.result:lose
+2026-04-19 21:48:53,324 - INFO - code000155.SZ,dateBegin:2003-07-21 00:00:00,buyPrice:4.27,endDate:20030818,endPrice:4.03.result:lose
+2026-04-19 21:48:53,641 - INFO - code:000156.SZ,dateBegin:2008-02-19 00:00:00,buyPrice:9.63,endDate:20121019,endPrice:11.31.result:win
+2026-04-19 21:48:54,050 - INFO - code:000157.SZ,dateBegin:2003-11-27 00:00:00,buyPrice:0.31,endDate:20031223,endPrice:0.36.result:win
+2026-04-19 21:48:54,293 - INFO - code000158.SZ,dateBegin:2016-08-29 00:00:00,buyPrice:10.14,endDate:20161019,endPrice:9.63.result:lose
+2026-04-19 21:48:54,645 - INFO - code000159.SZ,dateBegin:2006-10-13 00:00:00,buyPrice:1.78,endDate:20061120,endPrice:1.64.result:lose
+2026-04-19 21:48:54,887 - INFO - code000301.SZ,dateBegin:2019-07-11 00:00:00,buyPrice:5.1,endDate:20190805,endPrice:4.8.result:lose
+2026-04-19 21:48:55,062 - INFO - code:000400.SZ,dateBegin:2024-06-07 00:00:00,buyPrice:31.01,endDate:20240709,endPrice:34.18.result:win
+2026-04-19 21:48:55,343 - INFO - code:000401.SZ,dateBegin:2014-03-13 00:00:00,buyPrice:6.33,endDate:20140319,endPrice:6.97.result:win
+2026-04-19 21:48:55,725 - INFO - code000402.SZ,dateBegin:20010724,buyPrice:1.04,endDate:20010730,endPrice:0.96.result:lose
+2026-04-19 21:48:55,980 - INFO - code000403.SZ,dateBegin:2014-11-21 00:00:00,buyPrice:8.74,endDate:20141205,endPrice:8.12.result:lose
+2026-04-19 21:48:56,338 - INFO - code000404.SZ,dateBegin:2005-04-22 00:00:00,buyPrice:1.26,endDate:20050509,endPrice:1.09.result:lose
+2026-04-19 21:48:56,461 - INFO - code000407.SZ,dateBegin:2026-03-24 00:00:00,buyPrice:4.64.result:holding
+2026-04-19 21:48:56,732 - INFO - code:000408.SZ,dateBegin:2012-01-16 00:00:00,buyPrice:5.17,endDate:20120130,endPrice:5.7.result:win
+2026-04-19 21:48:57,065 - INFO - code:000409.SZ,dateBegin:2007-05-11 00:00:00,buyPrice:6.21,endDate:20070521,endPrice:7.17.result:win
+2026-04-19 21:48:57,248 - INFO - code:000410.SZ,dateBegin:2023-03-04 00:00:00,buyPrice:5.96,endDate:20230421,endPrice:6.62.result:win
+2026-04-19 21:48:57,553 - INFO - code000411.SZ,dateBegin:2009-11-17 00:00:00,buyPrice:5.37,endDate:20091222,endPrice:5.01.result:lose
+2026-04-19 21:48:57,744 - INFO - code000415.SZ,dateBegin:2022-01-07 00:00:00,buyPrice:2.93,endDate:20220124,endPrice:2.77.result:lose
+2026-04-19 21:48:58,151 - INFO - code000417.SZ,dateBegin:20010724,buyPrice:1.4,endDate:20010730,endPrice:1.29.result:lose
+2026-04-19 21:48:58,364 - INFO - code:000419.SZ,dateBegin:2021-02-20 00:00:00,buyPrice:3.82,endDate:20210416,endPrice:4.37.result:win
+2026-04-19 21:48:58,601 - INFO - code000420.SZ,dateBegin:2018-09-03 00:00:00,buyPrice:2.24,endDate:20180912,endPrice:2.12.result:lose
+2026-04-19 21:48:58,891 - INFO - code:000421.SZ,dateBegin:2014-09-01 00:00:00,buyPrice:5.93,endDate:20141008,endPrice:6.63.result:win
+2026-04-19 21:48:59,123 - INFO - code000422.SZ,dateBegin:2019-10-05 00:00:00,buyPrice:2.73,endDate:20191108,endPrice:2.59.result:lose
+2026-04-19 21:48:59,367 - INFO - code:000423.SZ,dateBegin:2022-10-27 00:00:00,buyPrice:32.17,endDate:20221216,endPrice:35.52.result:win
+2026-04-19 21:48:59,724 - INFO - code000425.SZ,dateBegin:2008-03-20 00:00:00,buyPrice:2.79,endDate:20080327,endPrice:2.65.result:lose
+2026-04-19 21:48:59,944 - INFO - code:000426.SZ,dateBegin:2021-04-20 00:00:00,buyPrice:6.73,endDate:20210510,endPrice:7.8.result:win
+2026-04-19 21:49:00,229 - INFO - code000428.SZ,dateBegin:2014-05-29 00:00:00,buyPrice:6.49,endDate:20140604,endPrice:5.84.result:lose
+2026-04-19 21:49:00,494 - INFO - code:000429.SZ,dateBegin:2015-03-09 00:00:00,buyPrice:2.89,endDate:20150318,endPrice:3.33.result:win
+2026-04-19 21:49:00,897 - INFO - code000430.SZ,dateBegin:2003-01-28 00:00:00,buyPrice:5.29,endDate:20030313,endPrice:5.02.result:lose
+2026-04-19 21:49:01,151 - INFO - code:000488.SZ,dateBegin:2014-06-21 00:00:00,buyPrice:2.02,endDate:20140729,endPrice:2.23.result:win
+2026-04-19 21:49:01,430 - INFO - code:000498.SZ,dateBegin:2007-05-04 00:00:00,buyPrice:3.93,endDate:20070511,endPrice:4.52.result:win
+2026-04-19 21:49:01,778 - INFO - code:000501.SZ,dateBegin:2005-07-08 00:00:00,buyPrice:1.37,endDate:20050805,endPrice:1.51.result:win
+2026-04-19 21:49:02,099 - INFO - code000503.SZ,dateBegin:2011-03-22 00:00:00,buyPrice:11.62,endDate:20110406,endPrice:10.87.result:lose
+2026-04-19 21:49:02,444 - INFO - code:000504.SZ,dateBegin:2007-03-05 00:00:00,buyPrice:7.32,endDate:20070313,endPrice:8.07.result:win
+2026-04-19 21:49:02,739 - INFO - code000505.SZ,dateBegin:2008-06-12 00:00:00,buyPrice:16.92,endDate:20080627,endPrice:15.23.result:lose
+2026-04-19 21:49:02,907 - INFO - code:000506.SZ,dateBegin:2023-01-28 00:00:00,buyPrice:3.5,endDate:20230314,endPrice:4.17.result:win
+2026-04-19 21:49:03,331 - INFO - code000507.SZ,dateBegin:20010724,buyPrice:3.53,endDate:20010730,endPrice:3.29.result:lose
+2026-04-19 21:49:03,516 - INFO - code000509.SZ,dateBegin:2021-05-02 00:00:00,buyPrice:2.69,endDate:20210517,endPrice:2.48.result:lose
+2026-04-19 21:49:03,803 - INFO - code:000510.SZ,dateBegin:2009-09-30 00:00:00,buyPrice:5.82,endDate:20091012,endPrice:6.65.result:win
+2026-04-19 21:49:04,173 - INFO - code000513.SZ,dateBegin:2001-12-04 00:00:00,buyPrice:2.03,endDate:20011214,endPrice:1.89.result:lose
+2026-04-19 21:49:04,351 - INFO - code000514.SZ,dateBegin:2023-11-25 00:00:00,buyPrice:4.59,endDate:20231130,endPrice:4.35.result:lose
+2026-04-19 21:49:04,735 - INFO - code000516.SZ,dateBegin:2001-09-05 00:00:00,buyPrice:0.88,endDate:20010926,endPrice:0.82.result:lose
+2026-04-19 21:49:04,964 - INFO - code:000517.SZ,dateBegin:2016-10-31 00:00:00,buyPrice:3.29,endDate:20161130,endPrice:3.69.result:win
+2026-04-19 21:50:38,690 - INFO - ================begin=================
+2026-04-19 21:50:38,690 - INFO - WR:0.1,LR:0.05
+2026-04-19 21:50:38,956 - INFO - code:000001.SZ,dateBegin:2017-05-03 00:00:00,buyPrice:6.92,endDate:20170711,endPrice:7.98.result:win
+2026-04-19 21:50:39,381 - INFO - code000002.SZ,dateBegin:20010724,buyPrice:0.73,endDate:20010731,endPrice:0.69.result:lose
+2026-04-19 21:50:39,806 - INFO - code000004.SZ,dateBegin:20010724,buyPrice:21.43,endDate:20010727,endPrice:19.91.result:lose
+2026-04-19 21:50:40,140 - INFO - code:000006.SZ,dateBegin:2007-09-11 00:00:00,buyPrice:3.97,endDate:20070920,endPrice:4.57.result:win
+2026-04-19 21:50:40,381 - INFO - code:000007.SZ,dateBegin:2017-06-09 00:00:00,buyPrice:14.28,endDate:20170721,endPrice:16.05.result:win
+2026-04-19 21:50:40,853 - INFO - code000008.SZ,dateBegin:20010724,buyPrice:2.01,endDate:20010726,endPrice:1.88.result:lose
+2026-04-19 21:50:41,136 - INFO - code000009.SZ,dateBegin:2014-01-07 00:00:00,buyPrice:4.49,endDate:20140120,endPrice:4.26.result:lose
+2026-04-19 21:50:41,398 - INFO - code000010.SZ,dateBegin:2014-01-11 00:00:00,buyPrice:7.07,endDate:20140120,endPrice:6.66.result:lose
+2026-04-19 21:50:41,796 - INFO - code000011.SZ,dateBegin:20010724,buyPrice:6.06,endDate:20010727,endPrice:5.75.result:lose
+2026-04-19 21:50:41,942 - INFO - code000012.SZ,dateBegin:2025-08-20 00:00:00,buyPrice:4.77,endDate:20251215,endPrice:4.45.result:lose
+2026-04-19 21:50:42,192 - INFO - code:000014.SZ,dateBegin:2017-02-12 00:00:00,buyPrice:14.29,endDate:20170412,endPrice:16.81.result:win
+2026-04-19 21:50:42,393 - INFO - code000016.SZ,dateBegin:2022-07-21 00:00:00,buyPrice:5.64,endDate:20220729,endPrice:5.31.result:lose
+2026-04-19 21:50:42,704 - INFO - code:000017.SZ,dateBegin:2006-12-07 00:00:00,buyPrice:2.01,endDate:20070123,endPrice:2.29.result:win
+2026-04-19 21:50:42,916 - INFO - code:000019.SZ,dateBegin:2021-02-23 00:00:00,buyPrice:5.83,endDate:20210305,endPrice:6.72.result:win
+2026-04-19 21:50:43,312 - INFO - code000020.SZ,dateBegin:20010724,buyPrice:17.56,endDate:20011107,endPrice:16.66.result:lose
+2026-04-19 21:50:43,606 - INFO - code:000021.SZ,dateBegin:2010-07-01 00:00:00,buyPrice:9.14,endDate:20100723,endPrice:10.18.result:win
+2026-04-19 21:50:43,803 - INFO - code:001872.SZ,dateBegin:2023-01-03 00:00:00,buyPrice:13.03,endDate:20230324,endPrice:14.94.result:win
+2026-04-19 21:50:44,077 - INFO - code:000025.SZ,dateBegin:2015-02-17 00:00:00,buyPrice:8.85,endDate:20150227,endPrice:10.03.result:win
+2026-04-19 21:50:44,364 - INFO - code000026.SZ,dateBegin:2010-03-11 00:00:00,buyPrice:7.03,endDate:20100312,endPrice:6.66.result:lose
+2026-04-19 21:50:44,800 - INFO - code000027.SZ,dateBegin:20010724,buyPrice:1.76,endDate:20010730,endPrice:1.56.result:lose
+2026-04-19 21:50:45,072 - INFO - code:000028.SZ,dateBegin:2017-01-13 00:00:00,buyPrice:46.22,endDate:20170322,endPrice:51.5.result:win
+2026-04-19 21:50:45,329 - INFO - code000029.SZ,dateBegin:2011-09-06 00:00:00,buyPrice:4.35,endDate:20110929,endPrice:3.94.result:lose
+2026-04-19 21:50:45,684 - INFO - code000030.SZ,dateBegin:2003-07-11 00:00:00,buyPrice:1.86,endDate:20030725,endPrice:1.74.result:lose
+2026-04-19 21:50:45,938 - INFO - code000031.SZ,dateBegin:2020-09-03 00:00:00,buyPrice:5.38,endDate:20200911,endPrice:5.1.result:lose
+2026-04-19 21:50:46,096 - INFO - code000032.SZ,dateBegin:2025-08-30 00:00:00,buyPrice:25.68,endDate:20250902,endPrice:23.2.result:lose
+2026-04-19 21:50:46,565 - INFO - code000034.SZ,dateBegin:20010724,buyPrice:8.29,endDate:20010730,endPrice:7.39.result:lose
+2026-04-19 21:50:47,127 - INFO - code000035.SZ,dateBegin:20010724,buyPrice:9.36,endDate:20010726,endPrice:8.56.result:lose
+2026-04-19 21:50:47,506 - INFO - code:000036.SZ,dateBegin:2010-08-11 00:00:00,buyPrice:2.67,endDate:20100812,endPrice:2.96.result:win
+2026-04-19 21:50:47,660 - INFO - code000037.SZ,dateBegin:2025-03-06 00:00:00,buyPrice:8.13,endDate:20250407,endPrice:7.56.result:lose
+2026-04-19 21:50:48,044 - INFO - code000039.SZ,dateBegin:2002-01-31 00:00:00,buyPrice:1.44,endDate:20020520,endPrice:1.36.result:lose
+2026-04-19 21:50:48,328 - INFO - code000042.SZ,dateBegin:2013-07-10 00:00:00,buyPrice:12.15,endDate:20130726,endPrice:11.48.result:lose
+2026-04-19 21:50:48,694 - INFO - code001914.SZ,dateBegin:2006-02-27 00:00:00,buyPrice:1.72,endDate:20060413,endPrice:1.53.result:lose
+2026-04-19 21:50:49,124 - INFO - code000045.SZ,dateBegin:20010724,buyPrice:8.27,endDate:20010807,endPrice:7.8.result:lose
+2026-04-19 21:50:49,375 - INFO - code000048.SZ,dateBegin:2017-04-02 00:00:00,buyPrice:19.34,endDate:20170419,endPrice:18.35.result:lose
+2026-04-19 21:50:49,724 - INFO - code000049.SZ,dateBegin:2005-03-15 00:00:00,buyPrice:1.81,endDate:20050316,endPrice:1.66.result:lose
+2026-04-19 21:50:49,981 - INFO - code000050.SZ,dateBegin:2016-10-20 00:00:00,buyPrice:19.72,endDate:20170329,endPrice:18.33.result:lose
+2026-04-19 21:50:50,356 - INFO - code000055.SZ,dateBegin:20010724,buyPrice:2.98,endDate:20010730,endPrice:2.8.result:lose
+2026-04-19 21:50:50,528 - INFO - code000056.SZ,dateBegin:2024-07-13 00:00:00,buyPrice:1.76,endDate:20240724,endPrice:1.64.result:lose
+2026-04-19 21:50:50,742 - INFO - code:000058.SZ,dateBegin:2022-12-12 00:00:00,buyPrice:7.44,endDate:20221227,endPrice:8.32.result:win
+2026-04-19 21:50:51,120 - INFO - code:000059.SZ,dateBegin:2006-06-12 00:00:00,buyPrice:3.18,endDate:20060614,endPrice:3.55.result:win
+2026-04-19 21:50:51,518 - INFO - code000060.SZ,dateBegin:20010724,buyPrice:0.87,endDate:20010730,endPrice:0.79.result:lose
+2026-04-19 21:50:51,943 - INFO - code000061.SZ,dateBegin:20010724,buyPrice:2.14,endDate:20010730,endPrice:1.93.result:lose
+2026-04-19 21:50:52,133 - INFO - code:000062.SZ,dateBegin:2021-10-10 00:00:00,buyPrice:12.9,endDate:20211101,endPrice:14.44.result:win
+2026-04-19 21:50:52,501 - INFO - code:000063.SZ,dateBegin:2005-11-18 00:00:00,buyPrice:4.92,endDate:20051229,endPrice:6.06.result:win
+2026-04-19 21:50:52,917 - INFO - code000065.SZ,dateBegin:20010724,buyPrice:2.61,endDate:20010727,endPrice:2.42.result:lose
+2026-04-19 21:50:53,232 - INFO - code000066.SZ,dateBegin:2011-08-01 00:00:00,buyPrice:6.73,endDate:20110805,endPrice:6.39.result:lose
+2026-04-19 21:50:53,484 - INFO - code000068.SZ,dateBegin:2014-12-26 00:00:00,buyPrice:9.33,endDate:20141229,endPrice:8.86.result:lose
+2026-04-19 21:50:53,660 - INFO - code000069.SZ,dateBegin:2024-05-19 00:00:00,buyPrice:2.98,endDate:20240524,endPrice:2.82.result:lose
+2026-04-19 21:50:53,886 - INFO - code000070.SZ,dateBegin:2022-01-17 00:00:00,buyPrice:6.66,endDate:20220125,endPrice:6.1.result:lose
+2026-04-19 21:50:54,237 - INFO - code:000078.SZ,dateBegin:2008-11-03 00:00:00,buyPrice:0.93,endDate:20081113,endPrice:1.06.result:win
+2026-04-19 21:50:54,479 - INFO - code000088.SZ,dateBegin:2015-10-25 00:00:00,buyPrice:6.91,endDate:20151130,endPrice:6.51.result:lose
+2026-04-19 21:50:54,816 - INFO - code:000089.SZ,dateBegin:2007-05-16 00:00:00,buyPrice:10.14,endDate:20070523,endPrice:11.24.result:win
+2026-04-19 21:50:55,013 - INFO - code000090.SZ,dateBegin:2021-09-18 00:00:00,buyPrice:4.53,endDate:20211021,endPrice:4.29.result:lose
+2026-04-19 21:50:55,407 - INFO - code:000096.SZ,dateBegin:2002-03-16 00:00:00,buyPrice:4.45,endDate:20020624,endPrice:5.33.result:win
+2026-04-19 21:50:55,743 - INFO - code000099.SZ,dateBegin:2006-01-27 00:00:00,buyPrice:3.31,endDate:20060217,endPrice:3.13.result:lose
+2026-04-19 21:50:56,093 - INFO - code:000100.SZ,dateBegin:2007-07-17 00:00:00,buyPrice:1.42,endDate:20070720,endPrice:1.57.result:win
+2026-04-19 21:50:56,369 - INFO - code000151.SZ,dateBegin:2016-03-23 00:00:00,buyPrice:17.65,endDate:20160329,endPrice:16.37.result:lose
+2026-04-19 21:50:56,683 - INFO - code:000153.SZ,dateBegin:2010-09-26 00:00:00,buyPrice:5.56,endDate:20101104,endPrice:6.22.result:win
+2026-04-19 21:50:56,824 - INFO - code:000155.SZ,dateBegin:2025-12-21 00:00:00,buyPrice:12.04,endDate:20260123,endPrice:14.12.result:win
+2026-04-19 21:50:57,132 - INFO - code000156.SZ,dateBegin:2005-06-16 00:00:00,buyPrice:1.22,endDate:20050718,endPrice:1.12.result:lose
+2026-04-19 21:50:57,351 - INFO - code:000157.SZ,dateBegin:2020-11-09 00:00:00,buyPrice:5.94,endDate:20201130,endPrice:6.71.result:win
+2026-04-19 21:50:57,709 - INFO - code000158.SZ,dateBegin:2002-05-20 00:00:00,buyPrice:2.86,endDate:20020605,endPrice:2.62.result:lose
+2026-04-19 21:50:58,122 - INFO - code:000159.SZ,dateBegin:2001-10-20 00:00:00,buyPrice:3.81,endDate:20011024,endPrice:4.46.result:win
+2026-04-19 21:50:58,350 - INFO - code:000301.SZ,dateBegin:2018-09-12 00:00:00,buyPrice:5.71,endDate:20180925,endPrice:6.35.result:win
+2026-04-19 21:50:58,638 - INFO - code000400.SZ,dateBegin:2015-11-07 00:00:00,buyPrice:19.24,endDate:20151127,endPrice:17.2.result:lose
+2026-04-19 21:50:58,859 - INFO - code000401.SZ,dateBegin:2019-10-28 00:00:00,buyPrice:12.76,endDate:20191030,endPrice:11.89.result:lose
+2026-04-19 21:50:59,280 - INFO - code000402.SZ,dateBegin:20010724,buyPrice:1.03,endDate:20010730,endPrice:0.96.result:lose
+2026-04-19 21:50:59,569 - INFO - code000403.SZ,dateBegin:2009-07-05 00:00:00,buyPrice:8.84,endDate:20130208,endPrice:7.97.result:lose
+2026-04-19 21:50:59,853 - INFO - code000404.SZ,dateBegin:2013-05-28 00:00:00,buyPrice:4.76,endDate:20130607,endPrice:4.48.result:lose
+2026-04-19 21:51:00,124 - INFO - code:000407.SZ,dateBegin:2014-12-31 00:00:00,buyPrice:5.81,endDate:20150216,endPrice:6.55.result:win
+2026-04-19 21:51:00,581 - INFO - code000408.SZ,dateBegin:20010724,buyPrice:5.54,endDate:20010730,endPrice:5.04.result:lose
+2026-04-19 21:51:00,775 - INFO - code:000409.SZ,dateBegin:2021-11-23 00:00:00,buyPrice:5.16,endDate:20211215,endPrice:5.82.result:win
+2026-04-19 21:51:01,204 - INFO - code000410.SZ,dateBegin:20010724,buyPrice:4.38,endDate:20010730,endPrice:4.15.result:lose
+2026-04-19 21:51:01,546 - INFO - code000411.SZ,dateBegin:2007-11-05 00:00:00,buyPrice:5.26,endDate:20071108,endPrice:4.74.result:lose
+2026-04-19 21:51:01,757 - INFO - code000415.SZ,dateBegin:2021-06-03 00:00:00,buyPrice:2.75,endDate:20210607,endPrice:2.58.result:lose
+2026-04-19 21:51:02,008 - INFO - code000417.SZ,dateBegin:2018-09-16 00:00:00,buyPrice:4.41,endDate:20181011,endPrice:4.1.result:lose
+2026-04-19 21:51:02,308 - INFO - code000419.SZ,dateBegin:2012-05-18 00:00:00,buyPrice:4.27,endDate:20120524,endPrice:4.05.result:lose
+2026-04-19 21:51:02,462 - INFO - code000420.SZ,dateBegin:2025-10-16 00:00:00,buyPrice:4.17,endDate:20251121,endPrice:3.91.result:lose
+2026-04-19 21:51:02,814 - INFO - code:000421.SZ,dateBegin:2009-05-03 00:00:00,buyPrice:4.0,endDate:20090527,endPrice:4.52.result:win
+2026-04-19 21:51:03,223 - INFO - code000422.SZ,dateBegin:20010724,buyPrice:2.55,endDate:20010727,endPrice:2.42.result:lose
+2026-04-19 21:51:03,611 - INFO - code000423.SZ,dateBegin:20010724,buyPrice:3.77,endDate:20010730,endPrice:3.49.result:lose
+2026-04-19 21:51:03,888 - INFO - code:000425.SZ,dateBegin:2014-06-26 00:00:00,buyPrice:1.84,endDate:20140711,endPrice:2.04.result:win
+2026-04-19 21:51:04,144 - INFO - code:000426.SZ,dateBegin:2015-05-21 00:00:00,buyPrice:7.11,endDate:20150527,endPrice:7.89.result:win
+2026-04-19 21:51:04,549 - INFO - code000428.SZ,dateBegin:20010724,buyPrice:2.54,endDate:20010730,endPrice:2.33.result:lose
+2026-04-19 21:51:04,926 - INFO - code:000429.SZ,dateBegin:2003-04-27 00:00:00,buyPrice:1.87,endDate:20030516,endPrice:2.07.result:win
+2026-04-19 21:51:05,209 - INFO - code:000430.SZ,dateBegin:2009-01-28 00:00:00,buyPrice:3.08,endDate:20090210,endPrice:3.47.result:win
+2026-04-19 21:51:05,396 - INFO - code000488.SZ,dateBegin:2021-11-09 00:00:00,buyPrice:7.29,endDate:20220125,endPrice:6.92.result:lose
+2026-04-19 21:51:05,590 - INFO - code:000498.SZ,dateBegin:2022-01-20 00:00:00,buyPrice:6.79,endDate:20220127,endPrice:7.77.result:win
+2026-04-19 21:51:05,767 - INFO - code:000501.SZ,dateBegin:2023-07-17 00:00:00,buyPrice:8.78,endDate:20230731,endPrice:9.75.result:win
+2026-04-19 21:51:06,194 - INFO - code000503.SZ,dateBegin:20010724,buyPrice:7.04,endDate:20010730,endPrice:6.51.result:lose
+2026-04-19 21:51:06,505 - INFO - code000504.SZ,dateBegin:2007-01-20 00:00:00,buyPrice:6.32,endDate:20070126,endPrice:6.0.result:lose
+2026-04-19 21:51:06,780 - INFO - code000505.SZ,dateBegin:2011-04-25 00:00:00,buyPrice:6.53,endDate:20110425,endPrice:6.17.result:lose
+2026-04-19 21:51:07,122 - INFO - code000506.SZ,dateBegin:2009-03-14 00:00:00,buyPrice:7.77,endDate:20090605,endPrice:7.09.result:lose
+2026-04-19 21:51:07,496 - INFO - code000507.SZ,dateBegin:2005-08-16 00:00:00,buyPrice:1.34,endDate:20050818,endPrice:1.26.result:lose
+2026-04-19 21:51:07,962 - INFO - code000509.SZ,dateBegin:20010724,buyPrice:3.75,endDate:20010726,endPrice:3.51.result:lose
+2026-04-19 21:51:08,162 - INFO - code:000510.SZ,dateBegin:2021-09-05 00:00:00,buyPrice:6.99,endDate:20210909,endPrice:7.83.result:win
+2026-04-19 21:51:08,518 - INFO - code:000513.SZ,dateBegin:2007-08-02 00:00:00,buyPrice:7.13,endDate:20070803,endPrice:8.02.result:win
+2026-04-19 21:51:08,857 - INFO - code000514.SZ,dateBegin:2006-11-26 00:00:00,buyPrice:2.55,endDate:20061208,endPrice:2.41.result:lose
+2026-04-19 21:51:09,201 - INFO - code000516.SZ,dateBegin:2004-04-21 00:00:00,buyPrice:0.54,endDate:20040429,endPrice:0.51.result:lose
+2026-04-19 21:51:09,728 - INFO - code000517.SZ,dateBegin:20010724,buyPrice:2.43,endDate:20010727,endPrice:2.28.result:lose
+2026-04-19 21:51:09,729 - INFO - 35,65,0
+2026-04-19 21:51:09,729 - INFO - ================end=================
+2026-04-19 21:51:35,794 - INFO - ================begin=================
+2026-04-19 21:51:35,794 - INFO - WR:0.1,LR:0.05
+2026-04-19 21:51:36,414 - INFO - code:000001.SZ,dateBegin:2004-09-03 00:00:00,buyPrice:1.48,endDate:20040920,endPrice:1.63.result:win
+2026-04-19 21:51:36,762 - INFO - code000002.SZ,dateBegin:2023-01-27 00:00:00,buyPrice:17.16,endDate:20230217,endPrice:16.25.result:lose
+2026-04-19 21:51:37,049 - INFO - code:000004.SZ,dateBegin:2013-04-26 00:00:00,buyPrice:11.61,endDate:20130508,endPrice:12.86.result:win
+2026-04-19 21:51:37,308 - INFO - code000006.SZ,dateBegin:2016-12-30 00:00:00,buyPrice:7.87,endDate:20170113,endPrice:7.23.result:lose
+2026-04-19 21:51:37,827 - INFO - code000007.SZ,dateBegin:20010724,buyPrice:6.65,endDate:20010726,endPrice:6.24.result:lose
+2026-04-19 21:51:38,225 - INFO - code000008.SZ,dateBegin:20010724,buyPrice:1.95,endDate:20010727,endPrice:1.81.result:lose
+2026-04-19 21:51:38,588 - INFO - code000009.SZ,dateBegin:2001-12-13 00:00:00,buyPrice:1.63,endDate:20011224,endPrice:1.52.result:lose
+2026-04-19 21:51:39,129 - INFO - code000010.SZ,dateBegin:20010724,buyPrice:3.82,endDate:20010730,endPrice:3.44.result:lose
+2026-04-19 21:51:39,540 - INFO - code000011.SZ,dateBegin:20010724,buyPrice:6.03,endDate:20010730,endPrice:5.46.result:lose
+2026-04-19 21:51:39,940 - INFO - code000012.SZ,dateBegin:20010724,buyPrice:2.38,endDate:20010726,endPrice:2.24.result:lose
+2026-04-19 21:51:40,331 - INFO - code:000014.SZ,dateBegin:2002-01-29 00:00:00,buyPrice:2.58,endDate:20020131,endPrice:2.89.result:win
+2026-04-19 21:51:40,596 - INFO - code000016.SZ,dateBegin:2017-04-28 00:00:00,buyPrice:4.28,endDate:20170508,endPrice:4.01.result:lose
+2026-04-19 21:51:40,915 - INFO - code000017.SZ,dateBegin:2003-10-15 00:00:00,buyPrice:3.95,endDate:20031024,endPrice:3.74.result:lose
+2026-04-19 21:51:41,393 - INFO - code000019.SZ,dateBegin:20010724,buyPrice:4.35,endDate:20010730,endPrice:3.89.result:lose
+2026-04-19 21:51:41,861 - INFO - code000020.SZ,dateBegin:20010724,buyPrice:17.92,endDate:20011026,endPrice:17.02.result:lose
+2026-04-19 21:51:42,215 - INFO - code000021.SZ,dateBegin:2008-01-26 00:00:00,buyPrice:9.57,endDate:20080128,endPrice:8.92.result:lose
+2026-04-19 21:51:42,653 - INFO - code001872.SZ,dateBegin:20010724,buyPrice:4.49,endDate:20010730,endPrice:4.08.result:lose
+2026-04-19 21:51:43,046 - INFO - code000025.SZ,dateBegin:2003-01-27 00:00:00,buyPrice:3.68,endDate:20030317,endPrice:3.47.result:lose
+2026-04-19 21:51:43,291 - INFO - code:000026.SZ,dateBegin:2019-10-24 00:00:00,buyPrice:6.91,endDate:20191206,endPrice:7.69.result:win
+2026-04-19 21:51:43,635 - INFO - code000027.SZ,dateBegin:2003-06-27 00:00:00,buyPrice:1.85,endDate:20030922,endPrice:1.75.result:lose
+2026-04-19 21:51:43,904 - INFO - code000028.SZ,dateBegin:2018-05-05 00:00:00,buyPrice:36.34,endDate:20180619,endPrice:32.44.result:lose
+2026-04-19 21:51:44,113 - INFO - code000029.SZ,dateBegin:2021-07-24 00:00:00,buyPrice:7.39,endDate:20210728,endPrice:6.87.result:lose
+2026-04-19 21:51:44,247 - INFO - code000030.SZ,dateBegin:2025-04-06 00:00:00,buyPrice:5.23,endDate:20250408,endPrice:4.74.result:lose
+2026-04-19 21:51:44,648 - INFO - code:000031.SZ,dateBegin:2004-10-01 00:00:00,buyPrice:1.37,endDate:20041028,endPrice:1.59.result:win
+2026-04-19 21:51:44,918 - INFO - code000032.SZ,dateBegin:2015-04-23 00:00:00,buyPrice:17.44,endDate:20150428,endPrice:16.24.result:lose
+2026-04-19 21:51:45,201 - INFO - code000034.SZ,dateBegin:2011-06-05 00:00:00,buyPrice:6.71,endDate:20110620,endPrice:6.19.result:lose
+2026-04-19 21:51:45,598 - INFO - code000035.SZ,dateBegin:20010724,buyPrice:9.33,endDate:20010726,endPrice:8.56.result:lose
+2026-04-19 21:51:45,788 - INFO - code:000036.SZ,dateBegin:2024-02-11 00:00:00,buyPrice:2.88,endDate:20240513,endPrice:3.29.result:win
+2026-04-19 21:51:45,996 - INFO - code000037.SZ,dateBegin:2023-08-14 00:00:00,buyPrice:10.21,endDate:20230823,endPrice:9.59.result:lose
+2026-04-19 21:51:46,198 - INFO - code000039.SZ,dateBegin:2023-03-06 00:00:00,buyPrice:7.3,endDate:20230329,endPrice:6.92.result:lose
+2026-04-19 21:51:46,530 - INFO - code:000042.SZ,dateBegin:2009-10-15 00:00:00,buyPrice:8.82,endDate:20091106,endPrice:9.71.result:win
+2026-04-19 21:51:46,886 - INFO - code001914.SZ,dateBegin:2004-05-07 00:00:00,buyPrice:1.54,endDate:20040628,endPrice:1.44.result:lose
+2026-04-19 21:51:47,316 - INFO - code000045.SZ,dateBegin:20010724,buyPrice:8.21,endDate:20010808,endPrice:7.79.result:lose
+2026-04-19 21:51:47,597 - INFO - code:000048.SZ,dateBegin:2015-01-23 00:00:00,buyPrice:6.0,endDate:20150205,endPrice:7.05.result:win
+2026-04-19 21:51:47,828 - INFO - code000049.SZ,dateBegin:2019-10-22 00:00:00,buyPrice:22.85,endDate:20191031,endPrice:21.62.result:lose
+2026-04-19 21:51:48,150 - INFO - code:000050.SZ,dateBegin:2015-02-22 00:00:00,buyPrice:22.21,endDate:20150319,endPrice:25.5.result:win
+2026-04-19 21:51:48,413 - INFO - code000055.SZ,dateBegin:2013-06-19 00:00:00,buyPrice:3.06,endDate:20130624,endPrice:2.89.result:lose
+2026-04-19 21:51:48,748 - INFO - code000056.SZ,dateBegin:2013-12-31 00:00:00,buyPrice:7.89,endDate:20140221,endPrice:7.49.result:lose
+2026-04-19 21:51:49,096 - INFO - code:000058.SZ,dateBegin:2005-08-11 00:00:00,buyPrice:2.16,endDate:20050817,endPrice:2.44.result:win
+2026-04-19 21:51:49,299 - INFO - code:000059.SZ,dateBegin:2021-04-21 00:00:00,buyPrice:5.79,endDate:20210507,endPrice:6.71.result:win
+2026-04-19 21:51:49,675 - INFO - code000060.SZ,dateBegin:2008-08-05 00:00:00,buyPrice:3.64,endDate:20080808,endPrice:3.15.result:lose
+2026-04-19 21:51:49,994 - INFO - code000061.SZ,dateBegin:2011-10-01 00:00:00,buyPrice:6.67,endDate:20111021,endPrice:6.31.result:lose
+2026-04-19 21:51:50,384 - INFO - code000062.SZ,dateBegin:20010724,buyPrice:6.29,endDate:20010730,endPrice:5.58.result:lose
+2026-04-19 21:51:50,763 - INFO - code000063.SZ,dateBegin:2008-07-24 00:00:00,buyPrice:13.59,endDate:20080807,endPrice:12.91.result:lose
+2026-04-19 21:51:51,177 - INFO - code000065.SZ,dateBegin:20010724,buyPrice:2.54,endDate:20010730,endPrice:2.17.result:lose
+2026-04-19 21:51:51,543 - INFO - code:000066.SZ,dateBegin:2002-06-16 00:00:00,buyPrice:2.91,endDate:20020624,endPrice:3.4.result:win
+2026-04-19 21:51:51,722 - INFO - code000068.SZ,dateBegin:2022-09-12 00:00:00,buyPrice:3.75,endDate:20220916,endPrice:3.56.result:lose
+2026-04-19 21:51:52,090 - INFO - code000069.SZ,dateBegin:2004-04-01 00:00:00,buyPrice:0.9,endDate:20040429,endPrice:0.77.result:lose
+2026-04-19 21:51:52,290 - INFO - code000070.SZ,dateBegin:2021-12-02 00:00:00,buyPrice:6.83,endDate:20211227,endPrice:6.3.result:lose
+2026-04-19 21:51:52,653 - INFO - code000078.SZ,dateBegin:2007-07-01 00:00:00,buyPrice:2.46,endDate:20070705,endPrice:2.26.result:lose
+2026-04-19 21:51:53,003 - INFO - code:000088.SZ,dateBegin:2005-11-14 00:00:00,buyPrice:2.64,endDate:20051221,endPrice:2.93.result:win
+2026-04-19 21:51:53,390 - INFO - code000089.SZ,dateBegin:20010724,buyPrice:3.77,endDate:20010730,endPrice:3.48.result:lose
+2026-04-19 21:51:53,575 - INFO - code000090.SZ,dateBegin:2024-01-07 00:00:00,buyPrice:4.17,endDate:20240122,endPrice:3.88.result:lose
+2026-04-19 21:51:53,915 - INFO - code000096.SZ,dateBegin:2006-07-08 00:00:00,buyPrice:3.23,endDate:20060713,endPrice:3.03.result:lose
+2026-04-19 21:51:54,210 - INFO - code000099.SZ,dateBegin:2011-03-23 00:00:00,buyPrice:12.25,endDate:20110329,endPrice:11.54.result:lose
+2026-04-19 21:51:54,549 - INFO - code000100.SZ,dateBegin:2010-08-23 00:00:00,buyPrice:1.37,endDate:20100916,endPrice:1.29.result:lose
+2026-04-19 21:51:54,903 - INFO - code000151.SZ,dateBegin:2002-09-17 00:00:00,buyPrice:7.38,endDate:20021010,endPrice:6.94.result:lose
+2026-04-19 21:51:55,305 - INFO - code:000153.SZ,dateBegin:2007-07-22 00:00:00,buyPrice:4.09,endDate:20070730,endPrice:4.53.result:win
+2026-04-19 21:51:55,592 - INFO - code:000155.SZ,dateBegin:2009-03-20 00:00:00,buyPrice:6.95,endDate:20090402,endPrice:8.02.result:win
+2026-04-19 21:51:55,914 - INFO - code000156.SZ,dateBegin:2002-08-15 00:00:00,buyPrice:12.53,endDate:20021028,endPrice:11.82.result:lose
+2026-04-19 21:51:56,266 - INFO - code:000157.SZ,dateBegin:2005-07-31 00:00:00,buyPrice:0.24,endDate:20050811,endPrice:0.27.result:win
+2026-04-19 21:51:56,505 - INFO - code:000158.SZ,dateBegin:2018-05-06 00:00:00,buyPrice:7.57,endDate:20180508,endPrice:8.39.result:win
+2026-04-19 21:51:56,728 - INFO - code:000159.SZ,dateBegin:2020-05-08 00:00:00,buyPrice:4.76,endDate:20200703,endPrice:5.31.result:win
+2026-04-19 21:51:57,111 - INFO - code000301.SZ,dateBegin:20010724,buyPrice:5.54,endDate:20010730,endPrice:5.06.result:lose
+2026-04-19 21:51:57,319 - INFO - code000400.SZ,dateBegin:2021-12-21 00:00:00,buyPrice:27.33,endDate:20211227,endPrice:25.83.result:lose
+2026-04-19 21:51:57,738 - INFO - code000401.SZ,dateBegin:20010724,buyPrice:3.93,endDate:20010730,endPrice:3.65.result:lose
+2026-04-19 21:51:58,100 - INFO - code000402.SZ,dateBegin:2005-10-01 00:00:00,buyPrice:1.5,endDate:20051031,endPrice:1.42.result:lose
+2026-04-19 21:51:58,363 - INFO - code000403.SZ,dateBegin:2013-12-26 00:00:00,buyPrice:6.39,endDate:20140109,endPrice:6.03.result:lose
+2026-04-19 21:51:58,670 - INFO - code:000404.SZ,dateBegin:2013-03-23 00:00:00,buyPrice:4.3,endDate:20130409,endPrice:4.95.result:win
+2026-04-19 21:51:58,871 - INFO - code:000407.SZ,dateBegin:2020-06-06 00:00:00,buyPrice:3.05,endDate:20200703,endPrice:3.49.result:win
+2026-04-19 21:51:59,360 - INFO - code000408.SZ,dateBegin:20010724,buyPrice:5.58,endDate:20010730,endPrice:5.04.result:lose
+2026-04-19 21:51:59,863 - INFO - code000409.SZ,dateBegin:20010724,buyPrice:12.91,endDate:20010730,endPrice:12.16.result:lose
+2026-04-19 21:52:00,276 - INFO - code000410.SZ,dateBegin:20010724,buyPrice:4.46,endDate:20010730,endPrice:4.15.result:lose
+2026-04-19 21:52:00,473 - INFO - code:000411.SZ,dateBegin:2021-11-03 00:00:00,buyPrice:9.48,endDate:20211213,endPrice:10.63.result:win
+2026-04-19 21:52:00,785 - INFO - code000415.SZ,dateBegin:2013-07-10 00:00:00,buyPrice:3.59,endDate:20130718,endPrice:3.37.result:lose
+2026-04-19 21:52:01,131 - INFO - code000417.SZ,dateBegin:2006-11-03 00:00:00,buyPrice:1.28,endDate:20061113,endPrice:1.2.result:lose
+2026-04-19 21:52:01,500 - INFO - code000419.SZ,dateBegin:20010724,buyPrice:3.35,endDate:20010730,endPrice:3.05.result:lose
+2026-04-19 21:52:01,911 - INFO - code000420.SZ,dateBegin:2003-06-05 00:00:00,buyPrice:1.85,endDate:20030623,endPrice:1.74.result:lose
+2026-04-19 21:52:02,315 - INFO - code000421.SZ,dateBegin:20010724,buyPrice:4.61,endDate:20010730,endPrice:4.23.result:lose
+2026-04-19 21:52:02,581 - INFO - code:000422.SZ,dateBegin:2014-05-30 00:00:00,buyPrice:4.81,endDate:20140805,endPrice:5.43.result:win
+2026-04-19 21:52:02,717 - INFO - code:000423.SZ,dateBegin:2025-11-28 00:00:00,buyPrice:47.18,endDate:20260203,endPrice:52.9.result:win
+2026-04-19 21:52:02,917 - INFO - code000425.SZ,dateBegin:2021-08-24 00:00:00,buyPrice:5.77,endDate:20210826,endPrice:5.48.result:lose
+2026-04-19 21:52:03,383 - INFO - code000426.SZ,dateBegin:20010724,buyPrice:2.3,endDate:20010731,endPrice:2.08.result:lose
+2026-04-19 21:52:03,756 - INFO - code000428.SZ,dateBegin:2008-12-11 00:00:00,buyPrice:3.18,endDate:20081211,endPrice:3.01.result:lose
+2026-04-19 21:52:04,038 - INFO - code:000429.SZ,dateBegin:2016-03-27 00:00:00,buyPrice:3.18,endDate:20160706,endPrice:3.51.result:win
+2026-04-19 21:52:04,328 - INFO - code:000430.SZ,dateBegin:2010-07-20 00:00:00,buyPrice:5.63,endDate:20100802,endPrice:6.43.result:win
+2026-04-19 21:52:04,499 - INFO - code000488.SZ,dateBegin:2024-03-20 00:00:00,buyPrice:3.62,endDate:20240415,endPrice:3.38.result:lose
+2026-04-19 21:52:04,800 - INFO - code000498.SZ,dateBegin:2010-11-12 00:00:00,buyPrice:6.7,endDate:20130208,endPrice:4.68.result:lose
+2026-04-19 21:52:05,053 - INFO - code:000501.SZ,dateBegin:2016-11-14 00:00:00,buyPrice:12.97,endDate:20161201,endPrice:14.27.result:win
+2026-04-19 21:52:05,426 - INFO - code:000503.SZ,dateBegin:2005-07-19 00:00:00,buyPrice:6.11,endDate:20050808,endPrice:6.78.result:win
+2026-04-19 21:52:05,900 - INFO - code000504.SZ,dateBegin:20010724,buyPrice:10.49,endDate:20011010,endPrice:9.9.result:lose
+2026-04-19 21:52:06,278 - INFO - code:000505.SZ,dateBegin:2007-07-02 00:00:00,buyPrice:14.24,endDate:20070709,endPrice:15.95.result:win
+2026-04-19 21:52:06,674 - INFO - code000506.SZ,dateBegin:20010724,buyPrice:8.19,endDate:20010917,endPrice:7.55.result:lose
+2026-04-19 21:52:07,017 - INFO - code000507.SZ,dateBegin:2001-08-06 00:00:00,buyPrice:3.47,endDate:20010903,endPrice:3.19.result:lose
+2026-04-19 21:52:07,525 - INFO - code000509.SZ,dateBegin:20010724,buyPrice:3.66,endDate:20010727,endPrice:3.47.result:lose
+2026-04-19 21:52:07,919 - INFO - code:000510.SZ,dateBegin:20010724,buyPrice:9.43,endDate:20010814,endPrice:10.46.result:win
+2026-04-19 21:52:08,342 - INFO - code000513.SZ,dateBegin:20010724,buyPrice:2.59,endDate:20010727,endPrice:2.46.result:lose
+2026-04-19 21:52:08,639 - INFO - code000514.SZ,dateBegin:2014-01-15 00:00:00,buyPrice:4.0,endDate:20140120,endPrice:3.76.result:lose
+2026-04-19 21:52:08,907 - INFO - code000516.SZ,dateBegin:2017-11-04 00:00:00,buyPrice:4.93,endDate:20171204,endPrice:4.66.result:lose
+2026-04-19 21:52:09,130 - INFO - code000517.SZ,dateBegin:2021-06-25 00:00:00,buyPrice:2.03,endDate:20210723,endPrice:1.91.result:lose
+2026-04-19 21:52:09,130 - INFO - 29,71,0
+2026-04-19 21:52:09,130 - INFO - ================end=================
+2026-04-19 21:52:35,357 - INFO - ================begin=================
+2026-04-19 21:52:35,357 - INFO - WR:0.1,LR:0.05
+2026-04-19 21:52:35,535 - INFO - code000001.SZ,dateBegin:2023-07-18 00:00:00,buyPrice:9.81,endDate:20231019,endPrice:9.19.result:lose
+2026-04-19 21:52:35,887 - INFO - code000002.SZ,dateBegin:2008-06-18 00:00:00,buyPrice:6.24,endDate:20080619,endPrice:5.61.result:lose
+2026-04-19 21:52:36,191 - INFO - code:000004.SZ,dateBegin:2010-02-13 00:00:00,buyPrice:9.06,endDate:20100226,endPrice:10.36.result:win
+2026-04-19 21:52:36,646 - INFO - code000006.SZ,dateBegin:20010724,buyPrice:1.48,endDate:20010730,endPrice:1.39.result:lose
+2026-04-19 21:52:36,933 - INFO - code:000007.SZ,dateBegin:2008-07-06 00:00:00,buyPrice:4.39,endDate:20080721,endPrice:4.92.result:win
+2026-04-19 21:52:37,225 - INFO - code:000008.SZ,dateBegin:2012-08-05 00:00:00,buyPrice:1.05,endDate:20120822,endPrice:1.21.result:win
+2026-04-19 21:52:37,429 - INFO - code:000009.SZ,dateBegin:2022-07-25 00:00:00,buyPrice:12.19,endDate:20220727,endPrice:14.61.result:win
+2026-04-19 21:52:37,647 - INFO - code:000010.SZ,dateBegin:2019-11-24 00:00:00,buyPrice:3.4,endDate:20200110,endPrice:3.87.result:win
+2026-04-19 21:52:37,969 - INFO - code000011.SZ,dateBegin:2010-10-26 00:00:00,buyPrice:6.27,endDate:20101112,endPrice:5.67.result:lose
+2026-04-19 21:52:38,413 - INFO - code000012.SZ,dateBegin:20010724,buyPrice:2.37,endDate:20010726,endPrice:2.24.result:lose
+2026-04-19 21:52:38,695 - INFO - code000014.SZ,dateBegin:2013-01-03 00:00:00,buyPrice:6.71,endDate:20130111,endPrice:6.3.result:lose
+2026-04-19 21:52:39,092 - INFO - code000016.SZ,dateBegin:20010724,buyPrice:2.04,endDate:20010727,endPrice:1.76.result:lose
+2026-04-19 21:52:39,669 - INFO - code000017.SZ,dateBegin:20010724,buyPrice:8.01,endDate:20010727,endPrice:7.33.result:lose
+2026-04-19 21:52:40,972 - INFO - code:000019.SZ,dateBegin:2012-05-03 00:00:00,buyPrice:4.0,endDate:20120515,endPrice:4.45.result:win
+2026-04-19 21:52:41,418 - INFO - code000020.SZ,dateBegin:20010724,buyPrice:17.73,endDate:20011107,endPrice:16.66.result:lose
+2026-04-19 21:52:41,767 - INFO - code:000021.SZ,dateBegin:2009-02-01 00:00:00,buyPrice:2.84,endDate:20090206,endPrice:3.17.result:win
+2026-04-19 21:52:42,018 - INFO - code001872.SZ,dateBegin:2017-10-19 00:00:00,buyPrice:19.86,endDate:20180710,endPrice:17.91.result:lose
+2026-04-19 21:52:42,298 - INFO - code000025.SZ,dateBegin:2016-04-16 00:00:00,buyPrice:48.54,endDate:20160420,endPrice:45.48.result:lose
+2026-04-19 21:52:42,577 - INFO - code000026.SZ,dateBegin:2009-11-22 00:00:00,buyPrice:5.6,endDate:20091124,endPrice:5.31.result:lose
+2026-04-19 21:52:42,912 - INFO - code:000027.SZ,dateBegin:2007-01-15 00:00:00,buyPrice:2.88,endDate:20070122,endPrice:3.24.result:win
+2026-04-19 21:52:43,366 - INFO - code000028.SZ,dateBegin:20010724,buyPrice:10.76,endDate:20010903,endPrice:10.2.result:lose
+2026-04-19 21:52:43,686 - INFO - code000029.SZ,dateBegin:2010-01-19 00:00:00,buyPrice:6.77,endDate:20100125,endPrice:6.3.result:lose
+2026-04-19 21:52:44,201 - INFO - code000030.SZ,dateBegin:20010724,buyPrice:5.41,endDate:20010730,endPrice:4.93.result:lose
+2026-04-19 21:52:44,373 - INFO - code000031.SZ,dateBegin:2025-11-30 00:00:00,buyPrice:3.14,endDate:20251209,endPrice:2.98.result:lose
+2026-04-19 21:52:44,611 - INFO - code000032.SZ,dateBegin:2020-08-29 00:00:00,buyPrice:23.52,endDate:20200903,endPrice:22.06.result:lose
+2026-04-19 21:52:44,818 - INFO - code:000034.SZ,dateBegin:2021-11-08 00:00:00,buyPrice:14.71,endDate:20220117,endPrice:16.43.result:win
+2026-04-19 21:52:45,192 - INFO - code000035.SZ,dateBegin:20010724,buyPrice:9.58,endDate:20010726,endPrice:8.56.result:lose
+2026-04-19 21:52:45,392 - INFO - code000036.SZ,dateBegin:2021-11-16 00:00:00,buyPrice:4.52,endDate:20211214,endPrice:4.22.result:lose
+2026-04-19 21:52:45,651 - INFO - code:000037.SZ,dateBegin:2014-05-01 00:00:00,buyPrice:4.52,endDate:20140915,endPrice:5.21.result:win
+2026-04-19 21:52:46,062 - INFO - code000039.SZ,dateBegin:20010724,buyPrice:1.62,endDate:20010730,endPrice:1.53.result:lose
+2026-04-19 21:52:46,528 - INFO - code000042.SZ,dateBegin:20010724,buyPrice:5.07,endDate:20010730,endPrice:4.77.result:lose
+2026-04-19 21:52:47,037 - INFO - code001914.SZ,dateBegin:20010724,buyPrice:3.13,endDate:20010730,endPrice:2.81.result:lose
+2026-04-19 21:52:47,274 - INFO - code:000045.SZ,dateBegin:2017-08-18 00:00:00,buyPrice:10.88,endDate:20170830,endPrice:12.29.result:win
+2026-04-19 21:52:47,695 - INFO - code000048.SZ,dateBegin:20010724,buyPrice:4.41,endDate:20010726,endPrice:4.16.result:lose
+2026-04-19 21:52:47,916 - INFO - code000049.SZ,dateBegin:2020-03-18 00:00:00,buyPrice:21.37,endDate:20200323,endPrice:20.0.result:lose
+2026-04-19 21:52:48,281 - INFO - code000050.SZ,dateBegin:2002-05-18 00:00:00,buyPrice:2.8,endDate:20020605,endPrice:2.59.result:lose
+2026-04-19 21:52:48,646 - INFO - code000055.SZ,dateBegin:2007-09-13 00:00:00,buyPrice:2.6,endDate:20071024,endPrice:2.36.result:lose
+2026-04-19 21:52:48,866 - INFO - code000056.SZ,dateBegin:2022-06-22 00:00:00,buyPrice:4.74,endDate:20220701,endPrice:4.44.result:lose
+2026-04-19 21:52:49,042 - INFO - code:000058.SZ,dateBegin:2021-12-23 00:00:00,buyPrice:6.18,endDate:20220104,endPrice:6.81.result:win
+2026-04-19 21:52:49,354 - INFO - code000059.SZ,dateBegin:2012-11-08 00:00:00,buyPrice:5.12,endDate:20121113,endPrice:4.85.result:lose
+2026-04-19 21:52:49,633 - INFO - code000060.SZ,dateBegin:2013-06-23 00:00:00,buyPrice:3.88,endDate:20130627,endPrice:3.66.result:lose
+2026-04-19 21:52:50,061 - INFO - code000061.SZ,dateBegin:20010724,buyPrice:2.15,endDate:20010730,endPrice:1.93.result:lose
+2026-04-19 21:52:50,230 - INFO - code000062.SZ,dateBegin:2024-07-15 00:00:00,buyPrice:8.51,endDate:20240724,endPrice:8.05.result:lose
+2026-04-19 21:52:50,451 - INFO - code000063.SZ,dateBegin:2020-08-29 00:00:00,buyPrice:36.95,endDate:20200903,endPrice:34.94.result:lose
+2026-04-19 21:52:50,646 - INFO - code000065.SZ,dateBegin:2022-05-27 00:00:00,buyPrice:7.79,endDate:20220802,endPrice:7.07.result:lose
+2026-04-19 21:52:51,003 - INFO - code000066.SZ,dateBegin:2008-10-13 00:00:00,buyPrice:1.39,endDate:20081016,endPrice:1.32.result:lose
+2026-04-19 21:52:51,326 - INFO - code000068.SZ,dateBegin:2015-03-24 00:00:00,buyPrice:9.78,endDate:20150717,endPrice:9.2.result:lose
+2026-04-19 21:52:51,705 - INFO - code000069.SZ,dateBegin:2002-07-10 00:00:00,buyPrice:0.7,endDate:20020725,endPrice:0.66.result:lose
+2026-04-19 21:52:52,007 - INFO - code000070.SZ,dateBegin:2010-12-11 00:00:00,buyPrice:4.55,endDate:20110111,endPrice:4.27.result:lose
+2026-04-19 21:52:52,176 - INFO - code000078.SZ,dateBegin:2023-05-06 00:00:00,buyPrice:3.47,endDate:20230606,endPrice:3.28.result:lose
+2026-04-19 21:52:52,351 - INFO - code000088.SZ,dateBegin:2022-12-15 00:00:00,buyPrice:4.74,endDate:20221222,endPrice:4.47.result:lose
+2026-04-19 21:52:52,688 - INFO - code000089.SZ,dateBegin:2010-06-20 00:00:00,buyPrice:5.02,endDate:20100629,endPrice:4.71.result:lose
+2026-04-19 21:52:53,066 - INFO - code000090.SZ,dateBegin:2001-09-18 00:00:00,buyPrice:1.75,endDate:20011010,endPrice:1.61.result:lose
+2026-04-19 21:52:53,291 - INFO - code:000096.SZ,dateBegin:2019-01-21 00:00:00,buyPrice:8.47,endDate:20190219,endPrice:9.48.result:win
+2026-04-19 21:52:53,655 - INFO - code000099.SZ,dateBegin:20010724,buyPrice:5.97,endDate:20010731,endPrice:5.31.result:lose
+2026-04-19 21:52:53,870 - INFO - code000100.SZ,dateBegin:2022-02-16 00:00:00,buyPrice:4.99,endDate:20220228,endPrice:4.74.result:lose
+2026-04-19 21:52:54,049 - INFO - code000151.SZ,dateBegin:2023-04-10 00:00:00,buyPrice:13.79,endDate:20230424,endPrice:12.31.result:lose
+2026-04-19 21:52:54,361 - INFO - code000153.SZ,dateBegin:2008-04-21 00:00:00,buyPrice:3.24,endDate:20080421,endPrice:2.99.result:lose
+2026-04-19 21:52:54,645 - INFO - code000155.SZ,dateBegin:2011-12-04 00:00:00,buyPrice:5.37,endDate:20111213,endPrice:4.78.result:lose
+2026-04-19 21:52:55,007 - INFO - code000156.SZ,dateBegin:2002-08-31 00:00:00,buyPrice:12.98,endDate:20021011,endPrice:12.19.result:lose
+2026-04-19 21:52:55,150 - INFO - code000157.SZ,dateBegin:2025-01-16 00:00:00,buyPrice:6.96,endDate:20250205,endPrice:6.56.result:lose
+2026-04-19 21:52:55,386 - INFO - code:000158.SZ,dateBegin:2022-07-18 00:00:00,buyPrice:5.74,endDate:20220719,endPrice:6.35.result:win
+2026-04-19 21:52:55,626 - INFO - code:000159.SZ,dateBegin:2018-07-18 00:00:00,buyPrice:3.59,endDate:20180731,endPrice:4.04.result:win
+2026-04-19 21:52:55,901 - INFO - code000301.SZ,dateBegin:2013-02-01 00:00:00,buyPrice:2.72,endDate:20130315,endPrice:2.58.result:lose
+2026-04-19 21:52:56,044 - INFO - code000400.SZ,dateBegin:2025-01-01 00:00:00,buyPrice:25.29,endDate:20250113,endPrice:23.93.result:lose
+2026-04-19 21:52:56,280 - INFO - code:000401.SZ,dateBegin:2018-11-11 00:00:00,buyPrice:8.5,endDate:20181119,endPrice:9.63.result:win
+2026-04-19 21:52:56,601 - INFO - code000402.SZ,dateBegin:2012-06-19 00:00:00,buyPrice:4.88,endDate:20120802,endPrice:4.61.result:lose
+2026-04-19 21:52:56,880 - INFO - code000403.SZ,dateBegin:2013-10-28 00:00:00,buyPrice:6.13,endDate:20131105,endPrice:5.7.result:lose
+2026-04-19 21:52:57,069 - INFO - code000404.SZ,dateBegin:2022-09-19 00:00:00,buyPrice:4.45,endDate:20220930,endPrice:4.19.result:lose
+2026-04-19 21:52:57,354 - INFO - code000407.SZ,dateBegin:2013-09-26 00:00:00,buyPrice:5.46,endDate:20131226,endPrice:5.05.result:lose
+2026-04-19 21:52:57,733 - INFO - code:000408.SZ,dateBegin:2005-07-29 00:00:00,buyPrice:0.87,endDate:20050809,endPrice:0.96.result:win
+2026-04-19 21:52:58,264 - INFO - code000409.SZ,dateBegin:20010724,buyPrice:13.01,endDate:20010730,endPrice:12.16.result:lose
+2026-04-19 21:52:58,654 - INFO - code000410.SZ,dateBegin:2011-08-20 00:00:00,buyPrice:11.94,endDate:20110905,endPrice:11.28.result:lose
+2026-04-19 21:52:58,925 - INFO - code:000411.SZ,dateBegin:2014-10-12 00:00:00,buyPrice:13.24,endDate:20141014,endPrice:14.57.result:win
+2026-04-19 21:52:59,207 - INFO - code:000415.SZ,dateBegin:2009-06-25 00:00:00,buyPrice:2.69,endDate:20090709,endPrice:3.02.result:win
+2026-04-19 21:52:59,620 - INFO - code000417.SZ,dateBegin:20010724,buyPrice:1.41,endDate:20010730,endPrice:1.29.result:lose
+2026-04-19 21:52:59,777 - INFO - code:000419.SZ,dateBegin:2024-11-27 00:00:00,buyPrice:5.47,endDate:20241211,endPrice:6.14.result:win
+2026-04-19 21:53:00,197 - INFO - code000420.SZ,dateBegin:20010724,buyPrice:3.16,endDate:20010726,endPrice:3.0.result:lose
+2026-04-19 21:53:00,551 - INFO - code000421.SZ,dateBegin:2003-01-29 00:00:00,buyPrice:2.89,endDate:20030318,endPrice:2.73.result:lose
+2026-04-19 21:53:00,764 - INFO - code000422.SZ,dateBegin:2021-05-09 00:00:00,buyPrice:5.0,endDate:20210517,endPrice:4.67.result:lose
+2026-04-19 21:53:01,099 - INFO - code:000423.SZ,dateBegin:2009-12-01 00:00:00,buyPrice:17.36,endDate:20091229,endPrice:19.54.result:win
+2026-04-19 21:53:01,529 - INFO - code:000425.SZ,dateBegin:20010724,buyPrice:1.46,endDate:20010824,endPrice:1.61.result:win
+2026-04-19 21:53:01,792 - INFO - code000426.SZ,dateBegin:2014-05-16 00:00:00,buyPrice:4.33,endDate:20140519,endPrice:4.08.result:lose
+2026-04-19 21:53:02,196 - INFO - code:000428.SZ,dateBegin:2002-07-27 00:00:00,buyPrice:2.15,endDate:20020809,endPrice:2.39.result:win
+2026-04-19 21:53:02,484 - INFO - code000429.SZ,dateBegin:2013-09-19 00:00:00,buyPrice:1.72,endDate:20131029,endPrice:1.61.result:lose
+2026-04-19 21:53:02,832 - INFO - code:000430.SZ,dateBegin:2007-06-30 00:00:00,buyPrice:5.88,endDate:20070813,endPrice:6.48.result:win
+2026-04-19 21:53:03,133 - INFO - code000488.SZ,dateBegin:2012-11-24 00:00:00,buyPrice:1.82,endDate:20121128,endPrice:1.72.result:lose
+2026-04-19 21:53:03,308 - INFO - code000498.SZ,dateBegin:2024-12-17 00:00:00,buyPrice:5.99,endDate:20250102,endPrice:5.62.result:lose
+2026-04-19 21:53:03,668 - INFO - code000501.SZ,dateBegin:2005-01-09 00:00:00,buyPrice:1.39,endDate:20050131,endPrice:1.32.result:lose
+2026-04-19 21:53:03,899 - INFO - code000503.SZ,dateBegin:2018-05-22 00:00:00,buyPrice:41.66,endDate:20180528,endPrice:39.54.result:lose
+2026-04-19 21:53:04,098 - INFO - code000504.SZ,dateBegin:2022-01-22 00:00:00,buyPrice:17.62,endDate:20220126,endPrice:16.22.result:lose
+2026-04-19 21:53:04,292 - INFO - code:000505.SZ,dateBegin:2021-11-01 00:00:00,buyPrice:6.48,endDate:20211102,endPrice:7.26.result:win
+2026-04-19 21:53:04,580 - INFO - code000506.SZ,dateBegin:2011-11-09 00:00:00,buyPrice:8.73,endDate:20111118,endPrice:8.08.result:lose
+2026-04-19 21:53:04,959 - INFO - code000507.SZ,dateBegin:2003-04-29 00:00:00,buyPrice:2.01,endDate:20030512,endPrice:1.88.result:lose
+2026-04-19 21:53:05,228 - INFO - code000509.SZ,dateBegin:2012-11-09 00:00:00,buyPrice:2.95,endDate:20121116,endPrice:2.73.result:lose
+2026-04-19 21:53:05,687 - INFO - code:000510.SZ,dateBegin:20010724,buyPrice:9.36,endDate:20010814,endPrice:10.46.result:win
+2026-04-19 21:53:05,866 - INFO - code000513.SZ,dateBegin:2025-07-18 00:00:00,buyPrice:41.75,endDate:20250814,endPrice:39.65.result:lose
+2026-04-19 21:53:06,014 - INFO - code000514.SZ,dateBegin:2025-03-17 00:00:00,buyPrice:4.17,endDate:20250331,endPrice:3.93.result:lose
+2026-04-19 21:53:06,171 - INFO - code000516.SZ,dateBegin:2025-12-18 00:00:00,buyPrice:4.55,endDate:20251230,endPrice:4.32.result:lose
+2026-04-19 21:53:06,627 - INFO - code000517.SZ,dateBegin:20010724,buyPrice:2.44,endDate:20010727,endPrice:2.28.result:lose
+2026-04-19 21:53:06,627 - INFO - 26,74,0
+2026-04-19 21:53:06,627 - INFO - ================end=================
+2026-04-19 21:53:45,526 - INFO - ================begin=================
+2026-04-19 21:53:45,526 - INFO - WR:0.1,LR:0.05
+2026-04-19 21:53:45,775 - INFO - code:000001.SZ,dateBegin:2018-07-29 00:00:00,buyPrice:7.47,endDate:20180731,endPrice:7.56.result:win
+2026-04-19 21:53:46,150 - INFO - code000002.SZ,dateBegin:2006-01-28 00:00:00,buyPrice:1.32,endDate:20060206,endPrice:1.31.result:lose
+2026-04-19 21:53:46,449 - INFO - code000004.SZ,dateBegin:2011-01-22 00:00:00,buyPrice:12.58,endDate:20110124,endPrice:12.4.result:lose
+2026-04-19 21:53:46,897 - INFO - code000006.SZ,dateBegin:20010724,buyPrice:1.51,endDate:20010724,endPrice:1.48.result:lose
+2026-04-19 21:53:47,049 - INFO - code000007.SZ,dateBegin:2026-02-18 00:00:00,buyPrice:12.94,endDate:20260224,endPrice:12.7.result:lose
+2026-04-19 21:53:47,327 - INFO - code:000008.SZ,dateBegin:2013-07-21 00:00:00,buyPrice:2.03,endDate:20130722,endPrice:2.06.result:win
+2026-04-19 21:53:47,683 - INFO - code000009.SZ,dateBegin:2003-07-16 00:00:00,buyPrice:1.5,endDate:20030718,endPrice:1.48.result:lose
+2026-04-19 21:53:48,026 - INFO - code000010.SZ,dateBegin:2006-04-11 00:00:00,buyPrice:0.71,endDate:20060412,endPrice:0.7.result:lose
+2026-04-19 21:53:48,294 - INFO - code000011.SZ,dateBegin:2012-12-18 00:00:00,buyPrice:4.72,endDate:20121218,endPrice:4.6.result:lose
+2026-04-19 21:53:48,508 - INFO - code000012.SZ,dateBegin:2018-12-14 00:00:00,buyPrice:3.33,endDate:20181214,endPrice:3.25.result:lose
+2026-04-19 21:53:48,770 - INFO - code000014.SZ,dateBegin:2016-11-20 00:00:00,buyPrice:18.32,endDate:20161121,endPrice:18.22.result:lose
+2026-04-19 21:53:49,108 - INFO - code000016.SZ,dateBegin:2005-10-22 00:00:00,buyPrice:0.7,endDate:20051025,endPrice:0.68.result:lose
+2026-04-19 21:53:49,350 - INFO - code:000017.SZ,dateBegin:2016-07-10 00:00:00,buyPrice:11.45,endDate:20160729,endPrice:11.87.result:win
+2026-04-19 21:53:49,601 - INFO - code:000019.SZ,dateBegin:2014-08-05 00:00:00,buyPrice:3.57,endDate:20140806,endPrice:3.7.result:win
+2026-04-19 21:53:49,930 - INFO - code:000020.SZ,dateBegin:2009-09-23 00:00:00,buyPrice:6.59,endDate:20090923,endPrice:6.72.result:win
+2026-04-19 21:53:50,349 - INFO - code000021.SZ,dateBegin:20010724,buyPrice:5.46,endDate:20010725,endPrice:5.36.result:lose
+2026-04-19 21:53:50,715 - INFO - code001872.SZ,dateBegin:2005-09-06 00:00:00,buyPrice:8.73,endDate:20050906,endPrice:8.68.result:lose
+2026-04-19 21:53:50,954 - INFO - code:000025.SZ,dateBegin:2017-11-06 00:00:00,buyPrice:29.52,endDate:20171109,endPrice:30.05.result:win
+2026-04-19 21:53:51,141 - INFO - code000026.SZ,dateBegin:2023-04-18 00:00:00,buyPrice:10.52,endDate:20230418,endPrice:10.4.result:lose
+2026-04-19 21:53:51,530 - INFO - code000027.SZ,dateBegin:20010724,buyPrice:1.79,endDate:20010724,endPrice:1.76.result:lose
+2026-04-19 21:53:51,938 - INFO - code000028.SZ,dateBegin:20010724,buyPrice:10.68,endDate:20010724,endPrice:10.58.result:lose
+2026-04-19 21:53:52,511 - INFO - code000029.SZ,dateBegin:20010724,buyPrice:6.43,endDate:20010724,endPrice:6.35.result:lose
+2026-04-19 21:53:52,881 - INFO - code000030.SZ,dateBegin:2004-10-22 00:00:00,buyPrice:0.54,endDate:20041025,endPrice:0.52.result:lose
+2026-04-19 21:53:53,123 - INFO - code000031.SZ,dateBegin:2019-08-10 00:00:00,buyPrice:6.34,endDate:20190813,endPrice:6.23.result:lose
+2026-04-19 21:53:53,355 - INFO - code:000032.SZ,dateBegin:2016-09-16 00:00:00,buyPrice:14.09,endDate:20160922,endPrice:14.3.result:win
+2026-04-19 21:53:53,620 - INFO - code:000034.SZ,dateBegin:2018-05-23 00:00:00,buyPrice:19.3,endDate:20180523,endPrice:19.72.result:win
+2026-04-19 21:53:54,213 - INFO - code000035.SZ,dateBegin:20010724,buyPrice:9.68,endDate:20010724,endPrice:9.49.result:lose
+2026-04-19 21:53:54,444 - INFO - code000036.SZ,dateBegin:2020-10-15 00:00:00,buyPrice:3.95,endDate:20201015,endPrice:3.92.result:lose
+2026-04-19 21:53:54,642 - INFO - code000037.SZ,dateBegin:2022-05-07 00:00:00,buyPrice:5.78,endDate:20220511,endPrice:5.63.result:lose
+2026-04-19 21:53:54,880 - INFO - code:000039.SZ,dateBegin:2019-10-10 00:00:00,buyPrice:5.82,endDate:20191011,endPrice:5.95.result:win
+2026-04-19 21:53:55,343 - INFO - code000042.SZ,dateBegin:20010724,buyPrice:5.08,endDate:20010730,endPrice:4.77.result:lose
+2026-04-19 21:53:55,518 - INFO - code001914.SZ,dateBegin:2024-01-27 00:00:00,buyPrice:10.66,endDate:20240130,endPrice:10.3.result:lose
+2026-04-19 21:53:55,792 - INFO - code:000045.SZ,dateBegin:2013-02-18 00:00:00,buyPrice:8.93,endDate:20130218,endPrice:9.13.result:win
+2026-04-19 21:53:55,980 - INFO - code:000048.SZ,dateBegin:2023-08-15 00:00:00,buyPrice:18.6,endDate:20230815,endPrice:18.88.result:win
+2026-04-19 21:53:56,424 - INFO - code:000049.SZ,dateBegin:2002-03-02 00:00:00,buyPrice:2.83,endDate:20020304,endPrice:2.88.result:win
+2026-04-19 21:53:56,676 - INFO - code:000050.SZ,dateBegin:2018-05-12 00:00:00,buyPrice:15.8,endDate:20180514,endPrice:16.24.result:win
+2026-04-19 21:53:56,937 - INFO - code:000055.SZ,dateBegin:2016-03-15 00:00:00,buyPrice:6.14,endDate:20160315,endPrice:6.28.result:win
+2026-04-19 21:53:57,298 - INFO - code000056.SZ,dateBegin:20010724,buyPrice:3.89,endDate:20010725,endPrice:3.87.result:lose
+2026-04-19 21:53:57,587 - INFO - code000058.SZ,dateBegin:2011-06-28 00:00:00,buyPrice:5.1,endDate:20120810,endPrice:4.85.result:lose
+2026-04-19 21:53:57,960 - INFO - code:000059.SZ,dateBegin:2006-01-22 00:00:00,buyPrice:3.19,endDate:20060124,endPrice:3.23.result:win
+2026-04-19 21:53:58,270 - INFO - code000060.SZ,dateBegin:2009-04-08 00:00:00,buyPrice:4.49,endDate:20090408,endPrice:4.35.result:lose
+2026-04-19 21:53:58,498 - INFO - code000061.SZ,dateBegin:2021-06-12 00:00:00,buyPrice:5.31,endDate:20210615,endPrice:5.25.result:lose
+2026-04-19 21:53:58,839 - INFO - code000062.SZ,dateBegin:2007-10-22 00:00:00,buyPrice:8.1,endDate:20071022,endPrice:8.04.result:lose
+2026-04-19 21:53:59,047 - INFO - code000063.SZ,dateBegin:2022-01-11 00:00:00,buyPrice:32.06,endDate:20220111,endPrice:31.87.result:lose
+2026-04-19 21:53:59,313 - INFO - code:000065.SZ,dateBegin:2018-11-19 00:00:00,buyPrice:7.31,endDate:20181119,endPrice:8.0.result:win
+2026-04-19 21:53:59,599 - INFO - code:000066.SZ,dateBegin:2010-11-14 00:00:00,buyPrice:9.31,endDate:20101115,endPrice:9.54.result:win
+2026-04-19 21:53:59,786 - INFO - code:000068.SZ,dateBegin:2022-01-10 00:00:00,buyPrice:3.45,endDate:20220112,endPrice:3.62.result:win
+2026-04-19 21:54:00,116 - INFO - code000069.SZ,dateBegin:2008-05-05 00:00:00,buyPrice:5.31,endDate:20080506,endPrice:5.17.result:lose
+2026-04-19 21:54:00,293 - INFO - code:000070.SZ,dateBegin:2024-04-22 00:00:00,buyPrice:6.88,endDate:20240422,endPrice:7.1.result:win
+2026-04-19 21:54:00,580 - INFO - code:000078.SZ,dateBegin:2013-09-11 00:00:00,buyPrice:2.74,endDate:20130912,endPrice:2.79.result:win
+2026-04-19 21:54:00,741 - INFO - code:000088.SZ,dateBegin:2024-11-28 00:00:00,buyPrice:4.85,endDate:20241128,endPrice:4.91.result:win
+2026-04-19 21:54:01,019 - INFO - code:000089.SZ,dateBegin:2015-08-04 00:00:00,buyPrice:7.71,endDate:20150804,endPrice:8.06.result:win
+2026-04-19 21:54:01,295 - INFO - code000090.SZ,dateBegin:2013-05-31 00:00:00,buyPrice:2.46,endDate:20130531,endPrice:2.35.result:lose
+2026-04-19 21:54:01,481 - INFO - code:000096.SZ,dateBegin:2024-01-23 00:00:00,buyPrice:9.81,endDate:20240124,endPrice:10.2.result:win
+2026-04-19 21:54:01,917 - INFO - code000099.SZ,dateBegin:20010724,buyPrice:5.95,endDate:20010726,endPrice:5.86.result:lose
+2026-04-19 21:54:02,271 - INFO - code000100.SZ,dateBegin:2008-08-26 00:00:00,buyPrice:1.09,endDate:20080826,endPrice:1.07.result:lose
+2026-04-19 21:54:02,530 - INFO - code000151.SZ,dateBegin:2016-12-17 00:00:00,buyPrice:19.43,endDate:20161220,endPrice:19.07.result:lose
+2026-04-19 21:54:02,789 - INFO - code000153.SZ,dateBegin:2013-12-23 00:00:00,buyPrice:4.93,endDate:20140326,endPrice:4.8.result:lose
+2026-04-19 21:54:03,089 - INFO - code000155.SZ,dateBegin:2010-04-11 00:00:00,buyPrice:8.36,endDate:20100412,endPrice:8.1.result:lose
+2026-04-19 21:54:03,225 - INFO - code000156.SZ,dateBegin:2025-12-02 00:00:00,buyPrice:7.79,endDate:20251203,endPrice:7.62.result:lose
+2026-04-19 21:54:03,472 - INFO - code000157.SZ,dateBegin:2015-01-17 00:00:00,buyPrice:4.0,endDate:20150119,endPrice:3.87.result:lose
+2026-04-19 21:54:03,820 - INFO - code000158.SZ,dateBegin:2009-06-30 00:00:00,buyPrice:4.21,endDate:20090630,endPrice:4.17.result:lose
+2026-04-19 21:54:04,068 - INFO - code000159.SZ,dateBegin:2017-05-14 00:00:00,buyPrice:7.1,endDate:20170515,endPrice:7.0.result:lose
+2026-04-19 21:54:04,335 - INFO - code000301.SZ,dateBegin:2014-02-16 00:00:00,buyPrice:2.84,endDate:20140217,endPrice:2.82.result:lose
+2026-04-19 21:54:04,575 - INFO - code000400.SZ,dateBegin:2017-10-17 00:00:00,buyPrice:15.29,endDate:20171017,endPrice:15.15.result:lose
+2026-04-19 21:54:04,734 - INFO - code000401.SZ,dateBegin:2024-09-10 00:00:00,buyPrice:4.17,endDate:20240911,endPrice:4.11.result:lose
+2026-04-19 21:54:04,988 - INFO - code000402.SZ,dateBegin:2017-03-25 00:00:00,buyPrice:9.09,endDate:20170329,endPrice:9.02.result:lose
+2026-04-19 21:54:05,267 - INFO - code:000403.SZ,dateBegin:2009-08-14 00:00:00,buyPrice:7.89,endDate:20130208,endPrice:7.97.result:win
+2026-04-19 21:54:05,530 - INFO - code:000404.SZ,dateBegin:2014-03-31 00:00:00,buyPrice:4.13,endDate:20140401,endPrice:4.22.result:win
+2026-04-19 21:54:05,721 - INFO - code:000407.SZ,dateBegin:2022-11-15 00:00:00,buyPrice:3.88,endDate:20221115,endPrice:3.93.result:win
+2026-04-19 21:54:06,062 - INFO - code000408.SZ,dateBegin:2010-10-25 00:00:00,buyPrice:8.39,endDate:20101025,endPrice:8.34.result:lose
+2026-04-19 21:54:06,312 - INFO - code:000409.SZ,dateBegin:2018-01-29 00:00:00,buyPrice:6.14,endDate:20180129,endPrice:6.25.result:win
+2026-04-19 21:54:06,564 - INFO - code000410.SZ,dateBegin:2018-05-10 00:00:00,buyPrice:10.5,endDate:20180510,endPrice:10.42.result:lose
+2026-04-19 21:54:06,933 - INFO - code000411.SZ,dateBegin:2003-06-20 00:00:00,buyPrice:2.7,endDate:20030623,endPrice:2.61.result:lose
+2026-04-19 21:54:07,160 - INFO - code000415.SZ,dateBegin:2019-03-04 00:00:00,buyPrice:4.66,endDate:20190304,endPrice:4.61.result:lose
+2026-04-19 21:54:07,530 - INFO - code000417.SZ,dateBegin:20010724,buyPrice:1.39,endDate:20010724,endPrice:1.38.result:lose
+2026-04-19 21:54:07,819 - INFO - code:000419.SZ,dateBegin:2011-10-11 00:00:00,buyPrice:4.38,endDate:20111012,endPrice:4.49.result:win
+2026-04-19 21:54:08,063 - INFO - code000420.SZ,dateBegin:2018-07-08 00:00:00,buyPrice:2.38,endDate:20180711,endPrice:2.31.result:lose
+2026-04-19 21:54:08,284 - INFO - code:000421.SZ,dateBegin:2019-11-13 00:00:00,buyPrice:3.79,endDate:20191113,endPrice:3.83.result:win
+2026-04-19 21:54:08,577 - INFO - code:000422.SZ,dateBegin:2015-08-08 00:00:00,buyPrice:7.78,endDate:20150810,endPrice:8.06.result:win
+2026-04-19 21:54:08,934 - INFO - code:000423.SZ,dateBegin:2006-09-27 00:00:00,buyPrice:5.88,endDate:20060928,endPrice:5.96.result:win
+2026-04-19 21:54:09,234 - INFO - code:000425.SZ,dateBegin:2011-03-04 00:00:00,buyPrice:7.35,endDate:20110304,endPrice:7.52.result:win
+2026-04-19 21:54:09,533 - INFO - code:000426.SZ,dateBegin:2013-03-06 00:00:00,buyPrice:5.1,endDate:20130308,endPrice:5.16.result:win
+2026-04-19 21:54:09,912 - INFO - code000428.SZ,dateBegin:2008-01-07 00:00:00,buyPrice:9.3,endDate:20080108,endPrice:8.88.result:lose
+2026-04-19 21:54:10,210 - INFO - code:000429.SZ,dateBegin:2012-02-07 00:00:00,buyPrice:1.85,endDate:20120207,endPrice:1.87.result:win
+2026-04-19 21:54:10,561 - INFO - code:000430.SZ,dateBegin:2006-07-08 00:00:00,buyPrice:2.39,endDate:20060711,endPrice:2.42.result:win
+2026-04-19 21:54:10,905 - INFO - code:000488.SZ,dateBegin:2007-10-16 00:00:00,buyPrice:6.08,endDate:20071016,endPrice:6.16.result:win
+2026-04-19 21:54:11,169 - INFO - code000498.SZ,dateBegin:2010-09-10 00:00:00,buyPrice:6.26,endDate:20130208,endPrice:4.68.result:lose
+2026-04-19 21:54:11,522 - INFO - code:000501.SZ,dateBegin:2010-01-16 00:00:00,buyPrice:9.6,endDate:20100118,endPrice:9.86.result:win
+2026-04-19 21:54:11,817 - INFO - code:000503.SZ,dateBegin:2008-09-28 00:00:00,buyPrice:4.21,endDate:20081007,endPrice:4.29.result:win
+2026-04-19 21:54:12,178 - INFO - code000504.SZ,dateBegin:20010724,buyPrice:11.07,endDate:20010724,endPrice:10.99.result:lose
+2026-04-19 21:54:12,662 - INFO - code000505.SZ,dateBegin:20010724,buyPrice:9.17,endDate:20010724,endPrice:9.09.result:lose
+2026-04-19 21:54:12,854 - INFO - code000506.SZ,dateBegin:2023-06-24 00:00:00,buyPrice:3.88,endDate:20230626,endPrice:3.85.result:lose
+2026-04-19 21:54:13,179 - INFO - code000507.SZ,dateBegin:2006-09-16 00:00:00,buyPrice:1.81,endDate:20060918,endPrice:1.8.result:lose
+2026-04-19 21:54:13,424 - INFO - code000509.SZ,dateBegin:2017-10-20 00:00:00,buyPrice:5.51,endDate:20180316,endPrice:4.96.result:lose
+2026-04-19 21:54:13,612 - INFO - code000510.SZ,dateBegin:2022-07-05 00:00:00,buyPrice:5.88,endDate:20220705,endPrice:5.81.result:lose
+2026-04-19 21:54:14,035 - INFO - code000513.SZ,dateBegin:20010724,buyPrice:2.59,endDate:20010725,endPrice:2.54.result:lose
+2026-04-19 21:54:14,456 - INFO - code000514.SZ,dateBegin:20010724,buyPrice:6.69,endDate:20010724,endPrice:6.54.result:lose
+2026-04-19 21:54:14,676 - INFO - code000516.SZ,dateBegin:2021-09-12 00:00:00,buyPrice:10.04,endDate:20210915,endPrice:9.91.result:lose
+2026-04-19 21:54:15,008 - INFO - code:000517.SZ,dateBegin:2005-09-16 00:00:00,buyPrice:0.75,endDate:20050916,endPrice:0.79.result:win
+2026-04-19 21:54:15,009 - INFO - 39,61,0
+2026-04-19 21:54:15,009 - INFO - ================end=================

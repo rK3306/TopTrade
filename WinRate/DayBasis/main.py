@@ -28,10 +28,10 @@ lr = 0.05
 logging.info("================begin=================")
 logging.info("WR:"+str(wr)+",LR:"+str(lr))
 
-for index in range(1000):
+for index in range(100):
     code = total.iloc[index]['ts_code']
     date = randomDate(total.iloc[index]['list_date'],dateToString(datetime.now()))
-    status = judgeBasisBefore(code,date,wr,lr)
+    status = judgeBasisBefore(code,date,0.01,0.005)
     if status == 1:
         win+=1
     elif status == -1:
@@ -39,6 +39,6 @@ for index in range(1000):
     else :
         holding+=1
     index+=1
-logging.info(win+","+lose+","+holding)
+logging.info(str(win)+","+str(lose)+","+str(holding))
 print(win,lose,holding)
 logging.info("================end=================")
