@@ -18,6 +18,11 @@ def lose(a,b,standard):
     else:
         return False
 
+def finalRate(w,l):
+    return ((1+0.1)**w*(1-0.05)**l)-1
+
 if __name__=='__main__':
     print(changeRate(5,4)[0])
     print(win(1,1.91,0.1))
+    print(finalRate(31,46))
+    print(finalRate(344,545))

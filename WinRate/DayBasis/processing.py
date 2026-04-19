@@ -14,19 +14,35 @@ def judgeBasisBefore(code,date):
     high = info.iloc[l-1]['high']
     low = info.iloc[l-1]['low']
     buyPrice = round(random.uniform(high,low),2)
-    while (datetime.now() > date):
-        date = date +timedelta(days=1)
-        curInfo = ts.pro_bar(ts_code=code,adj='qfq',start_date=date.strftime('%Y%m%d'),end_date=date.strftime('%Y%m%d'))
-        cur = pro.daily(ts_code=code,adj='qfq',trade_date=date.strftime('%Y%m%d'))
-        if curInfo is not None:
-            price = curInfo['close'][0]
-            if win(buyPrice,price,0.1):
-                print(buyPrice,price,date)
-                return 1
-            elif lose(buyPrice,price,0.05):
-                print(buyPrice,price,date)
-                return -1
+    win = buyPrice*(1+0.1)
+    lose = buyPrice*(1-0.05)
+    l-=1
+    while l>=0:
+        close = info.iloc[l]['close']
+        if close >= win:
+            print('code:'+code+','+'dateBegin:'+str(date)+',buyPrice:'+ str(buyPrice) +',endDate:'+str(info.iloc[l]['trade_date'])+
+                  ',endPrice:'+str(close)+'.result:win')
+            return 1
+        elif close <= lose:
+            print('code'+code+',dateBegin:' + str(date) + ',buyPrice:' + str(buyPrice) + ',endDate:' + str(info.iloc[l]['trade_date']) +
+                  ',endPrice:' + str(close) + '.result:lose')
+            return -1
+        l-=1
     return 0
+
+    # while (datetime.now() > date):
+    #     date = date +timedelta(days=1)
+    #     curInfo = ts.pro_bar(ts_code=code,adj='qfq',start_date=date.strftime('%Y%m%d'),end_date=date.strftime('%Y%m%d'))
+    #     cur = pro.daily(ts_code=code,adj='qfq',trade_date=date.strftime('%Y%m%d'))
+    #     if curInfo is not None:
+    #         price = curInfo['close'][0]
+    #         if win(buyPrice,price,0.1):
+    #             print(buyPrice,price,date)
+    #             return 1
+    #         elif lose(buyPrice,price,0.05):
+    #             print(buyPrice,price,date)
+    #             return -1
+    # return 0
 
 if __name__=='__main__':
     print(judgeBasisBefore('000001.SZ','20250307'))
