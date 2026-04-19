@@ -16,3 +16,5 @@ bDate=total.loc[0]['list_date']
 print(bDate)
 rDate = randomDate(bDate,dateToString(datetime.now()))
 print(rDate)
+
+print(hey)
